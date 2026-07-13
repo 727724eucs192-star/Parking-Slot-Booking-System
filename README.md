@@ -3,3 +3,4 @@ Backend project management repository for the Parking Slot Booking System. This 
 Project setup completed.
 User authentication module completed.
 Authentication issue linked.
+Parking slot management module completed.
